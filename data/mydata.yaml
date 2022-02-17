@@ -1,6 +1,6 @@
 
-train: data/mydata/images/train  # train images (relative to 'path') 118287 images
-val: data/mydata/images/val  # val images (relative to 'path') 5000 images
+train: ../data/mydata/images/train  # train images (relative to 'path') 118287 images
+val: ../data/mydata/images/val  # val images (relative to 'path') 5000 images
 
 # Classes
 nc: 5
